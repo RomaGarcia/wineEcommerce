@@ -8,7 +8,7 @@ import PreCategory from './components/PreCategory/PreCategory';
 function App() {
   return (
     <div className="App">
-      {/*PONER SUS RUTAS/COMPONENTES PARA HACER PRUEBAS*/}
+      {/*PONER SUS RUTAS/COMPONENTES PARA HACER PRUEBAS jeje*/}
       <Routes>
         <Route path="/" element={<PreCategory />} />
       </Routes>
